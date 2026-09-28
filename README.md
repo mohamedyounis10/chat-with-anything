@@ -1,6 +1,8 @@
 <div align="center">
 
-# 💬 Chat With Anything
+<h1 align="center">
+  💬 Chat With Anything
+</h1>
 
 > An AI-powered RAG assistant that lets you chat with **PDF files**, **websites**, and **YouTube videos**. Every answer comes straight from your source, together with the passages used to produce it.
 
