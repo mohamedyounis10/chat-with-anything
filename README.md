@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💬 Chat With Anything
 
 > An AI-powered RAG assistant that lets you chat with **PDF files**, **websites**, and **YouTube videos**. Every answer comes straight from your source, together with the passages used to produce it.
@@ -6,6 +8,8 @@
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-Mistral-orange)
 ![RAG](https://img.shields.io/badge/Architecture-RAG-8b5cf6)
+
+</div>
 
 ---
 
@@ -107,6 +111,10 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+<img width="1917" height="892" alt="Screenshot 2026-09-28 184007" src="https://github.com/user-attachments/assets/cbb8dce4-927f-441b-b72b-f8fcecadbd20" />
+<img width="1912" height="897" alt="Screenshot 2026-09-28 184305" src="https://github.com/user-attachments/assets/1ae5b7a3-2548-44f9-b95e-e4cc752b28ce" />
+<img width="1917" height="913" alt="Screenshot 2026-09-28 184119" src="https://github.com/user-attachments/assets/ce92798f-63fc-4504-9176-8175f6ef405b" />
+
 
 ### 5. Connect and chat
 
@@ -180,8 +188,16 @@ Contributions, issues, and feature requests are welcome. Feel free to open an is
 
 **Mohamed Younis**
 
-- GitHub: [@mohamedyounis10](https://github.com/mohamedyounis10)
-- LinkedIn: [mohamedyounis15](https://linkedin.com/in/mohamedyounis15)
+This project was developed as part of my **AI & LLM Internship at Tips Hindawi**.
+
+* GitHub: [@mohamedyounis10](https://github.com/mohamedyounis10)
+* LinkedIn: [Mohamed Younis](https://www.linkedin.com/in/mohamedyounis15/)
+* Internship Program: [Tips Hindawi](https://www.linkedin.com/company/tipshindawi/)
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
+
 
 ---
 
